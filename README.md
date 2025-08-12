@@ -36,6 +36,6 @@ Portfolio: https://azmatahmed.netlify.app
 
 LinkedIn: https://www.linkedin.com/in/azmat-ahmed-13610a314/
 
-Email: ahmedawn9519@gmail.com
+Email: ahmedawan9519@gmail.com
 
 Keywords: Terraform, AWS, Infrastructure as Code, EC2, S3, DynamoDB, DevOps, remote state, terraform best practices# -DevOps-Week-9-Advanced-Terraform-on-AWS
